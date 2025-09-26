@@ -21,6 +21,7 @@ TE-SPPU-Lab/
 │   ├── Assignment3/
 │   ├── Assignment4/
 │   ├── Assignment5_6/
+│   ├── Assignment7_8/
 │   └── ...
 └── README.md
 ```
